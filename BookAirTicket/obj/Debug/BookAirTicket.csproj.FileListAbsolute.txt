@@ -7,3 +7,6 @@ C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\obj\Debug\BookAi
 C:\Users\Desktop-win-bac\Documents\GitHub\airticket\BookAirTicket\bin\Debug\DatVeMayBay.exe.config
 C:\Users\Desktop-win-bac\Documents\GitHub\airticket\BookAirTicket\obj\Debug\DatVeMayBay.exe
 C:\Users\Desktop-win-bac\Documents\GitHub\airticket\BookAirTicket\obj\Debug\DatVeMayBay.pdb
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\BookAirTicket\bin\Debug\DatVeMayBay.exe
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\BookAirTicket\bin\Debug\DatVeMayBay.pdb
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\BookAirTicket\obj\Debug\BookAirTicket.csprojResolveAssemblyReference.cache

@@ -22,16 +22,30 @@ namespace BookAirTicket
             };
             Console.Write("You want buy Air Ticket? YES/NO ?");
             string a = Convert.ToString(Console.ReadLine());
-            //AirTicket newticket = new AirTicket();
-            //listticket.ForEach(x => { Console.WriteLine(x); });
+            //show item of listTicket 
             foreach (AirTicket item in listTicket)
             {
                 Console.WriteLine(item);
             }
-            Console.WriteLine("Which idtrip do you want to go");
-            int idTrip = int.Parse(Console.ReadLine());
-            // get ticket with idtrip -->can declare with var for all local
-            AirTicket ticket = listTicket.First(s => s.idTicket == idTrip);
+            int idTrip=0;         
+            AirTicket ticket = new AirTicket() ;
+            do
+            {
+                try
+                {   
+                    Console.WriteLine("Which idtrip do you want to go");
+                    idTrip = int.Parse(Console.ReadLine());
+                    //if idtrip != idTicket ---> catch and return try else break do while                    
+                    ticket = listTicket.First(s => s.idTicket == idTrip);
+                    break;
+                }
+                catch(Exception ex)
+                {
+                    Console.WriteLine("please re-enter!!");
+                }
+            }
+            while (true);       
+
             Console.WriteLine("How many tickets do you want to buy ?");
             //get number trip            
             int numberTrip = int.Parse(Console.ReadLine());
@@ -58,7 +72,9 @@ namespace BookAirTicket
             Console.Write("Total------->" + String.Format("{0:0.00}", total));
             Console.ReadKey();
         }
+        
     }
+    
 
 
 }
