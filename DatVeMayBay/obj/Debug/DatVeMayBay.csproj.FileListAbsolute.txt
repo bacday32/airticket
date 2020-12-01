@@ -4,3 +4,9 @@ C:\Users\Desktop-win-bac\documents\visual studio 2015\Projects\DatVeMayBay\DatVe
 C:\Users\Desktop-win-bac\documents\visual studio 2015\Projects\DatVeMayBay\DatVeMayBay\obj\Debug\DatVeMayBay.csprojResolveAssemblyReference.cache
 C:\Users\Desktop-win-bac\documents\visual studio 2015\Projects\DatVeMayBay\DatVeMayBay\obj\Debug\DatVeMayBay.exe
 C:\Users\Desktop-win-bac\documents\visual studio 2015\Projects\DatVeMayBay\DatVeMayBay\obj\Debug\DatVeMayBay.pdb
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\bin\Debug\DatVeMayBay.exe.config
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\obj\Debug\DatVeMayBay.exe
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\obj\Debug\DatVeMayBay.pdb
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\bin\Debug\DatVeMayBay.exe
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\bin\Debug\DatVeMayBay.pdb
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\obj\Debug\DatVeMayBay.csprojResolveAssemblyReference.cache
