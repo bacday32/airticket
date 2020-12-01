@@ -1,0 +1,9 @@
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\bin\Debug\DatVeMayBay.exe.config
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\bin\Debug\DatVeMayBay.exe
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\bin\Debug\DatVeMayBay.pdb
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\obj\Debug\DatVeMayBay.exe
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\obj\Debug\DatVeMayBay.pdb
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\DatVeMayBay\obj\Debug\BookAirTicket.csprojResolveAssemblyReference.cache
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\BookAirTicket\bin\Debug\DatVeMayBay.exe.config
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\BookAirTicket\obj\Debug\DatVeMayBay.exe
+C:\Users\Desktop-win-bac\Documents\GitHub\airticket\BookAirTicket\obj\Debug\DatVeMayBay.pdb

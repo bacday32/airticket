@@ -4,18 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DatVeMayBay
+namespace BookAirTicket
 {
     class Person
     {
-        public string fullname { get; set; }
-        public string sex { get; set; }
-        public int yearold { get; set; }
-        public Person(string fullname, string sex, int yearold)
+        protected string fullName { get; set; }
+        protected string sex { get; set; }
+        protected int yearOld { get; set; }
+        public Person(string fullName, string sex, int yearOld)
         {
-            this.fullname = fullname;
+            this.fullName = fullName;
             this.sex = sex;
-            this.yearold = yearold;
+            this.yearOld = yearOld;
         }
         public Person()
         {
@@ -23,11 +23,11 @@ namespace DatVeMayBay
         public void Input()
         {
             Console.Write("Full Name: ");
-            this.fullname = Convert.ToString(Console.ReadLine());
+            this.fullName = Convert.ToString(Console.ReadLine());
             Console.Write("Sex: ");
             this.sex = Convert.ToString(Console.ReadLine());
             Console.Write("Year Old: ");
-            this.yearold = int.Parse(Console.ReadLine());
+            this.yearOld = int.Parse(Console.ReadLine());
         }        
     }
 }

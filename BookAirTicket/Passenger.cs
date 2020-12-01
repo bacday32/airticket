@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DatVeMayBay
+namespace BookAirTicket
 {
     class Passenger : Person
     {
         // AirTicket ticket = new AirTicket();
-        private int numbertrip { get; set; }
+        public int numberTrip { get; set; }
         public AirTicket airTicket { get; set; }
-        public Passenger(string fullname, string sex, int yearold, int numbertrip, AirTicket airTicket) : base(fullname, sex, yearold)
+        public Passenger(string fullName, string sex, int yearOld, int numberTrip, AirTicket airTicket) : base(fullName, sex, yearOld)
         {
-            this.numbertrip = numbertrip;
+            this.numberTrip = numberTrip;
             this.airTicket = airTicket;
         }
         public Passenger()
@@ -21,7 +21,8 @@ namespace DatVeMayBay
         }
         public override string ToString()
         {
-            return this.fullname + " : " + this.sex + " : " + this.yearold + " : " + this.airTicket;
+            return this.fullName + " : " + this.sex + " : " + this.yearOld + " : " + this.airTicket;
         }
+
     }
 }
